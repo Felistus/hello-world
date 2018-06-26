@@ -1,2 +1,4 @@
 # hello-world
-my first repository for test
+Hello Humans!
+I am Drone, i like JavaScript, and i enjoying coding.
+My favorite animal is Rabbit. 
