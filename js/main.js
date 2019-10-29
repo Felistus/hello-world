@@ -28,6 +28,10 @@ $(document).ready(() => {
         alert("Editing will be cancelled!");
         $("#taskField").val("");
     });
+
+    $(".circle-1").click( ()=> {
+       $(".item").remove();
+    });
     
 });
 
