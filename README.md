@@ -23,5 +23,5 @@ This application was built using the following tools: _HTML_, _CSS_, _JavaScript
 
 ## My Info
 
-**Name: Obieze Felistus Ezeugo**
+**Name: Obieze Felistus Ezeugo** <br>
 **An aspiring Web Designer / Front-end Developer**
