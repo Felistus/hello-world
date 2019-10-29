@@ -1,5 +1,5 @@
 # Hello Humans!
-I am Ezeugo, i like JavaScript, and i enjoying coding.
+I am Ezeugo, i like JavaScript, and i enjoying coding.<br>
 My favorite animal is Rabbit. 
 
 # To-do List
@@ -13,8 +13,8 @@ My favorite animal is Rabbit.
 
 ## About App
 
-The To-do List is a simple task tracker app that keeps you abreast of your planned tasks or engagements to execute.
-You can _view_ and _test_ the app by clicking on this text [My To-do List](https://felistus.github.io/pixelArtMaker/).
+The To-do List is a simple task tracker app that keeps you abreast of your planned tasks or engagements to execute.<br>
+You can _view_ and _test_ the app by clicking on this text [My To-do List](https://felistus.github.io/to-do-list/). <br>
 Created on the 29/10/2019 &copy; 2019
 
 ## App Tools
