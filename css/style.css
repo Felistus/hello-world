@@ -62,7 +62,8 @@
     background-color: tomato;
     color: teal;
 }
-.fa-circle{ position: absolute; top: 83%; left: 48%; border: 2px solid tomato; border-radius: 50%; color: teal;}
+.fa-circle{ position: absolute; top: 83%; left: 48%; border: 2px solid tomato; border-radius: 50%; color: teal; }
+.circle-1:hover{ cursor: pointer; }
 .strike{
     text-decoration: line-through;
     text-decoration-color: gray;

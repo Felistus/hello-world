@@ -15,7 +15,7 @@ My favorite animal is Rabbit.
 
 The To-do List is a simple task tracker app that keeps you abreast of your planned tasks or engagements to execute.<br>
 You can _view_ and _test_ the app by clicking on this text [My To-do List](https://felistus.github.io/to-do-list/). <br>
-Created on the 29/10/2019 &copy; 2019
+Created: October &copy; 2019
 
 ## App Tools
 
@@ -24,5 +24,4 @@ This application was built using the following tools: _HTML_, _CSS_, _JavaScript
 ## My Info
 
 **Name: Obieze Felistus Ezeugo**
-
 **An aspiring Web Designer / Front-end Developer**
