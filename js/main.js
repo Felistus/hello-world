@@ -24,11 +24,6 @@ $(document).ready(() => {
         $(this).parent().remove();
     });
 
-    $("#btn-cancel").click( () => {
-        alert("Editing will be cancelled!");
-        $("#taskField").val("");
-    });
-
     $(".circle-1").click( ()=> {
        $(".item").remove();
     });
